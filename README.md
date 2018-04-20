@@ -1,0 +1,1 @@
+a simple JS app and a watir tests running in zalenium in Docker containers inside Travis
