@@ -24,7 +24,7 @@ services:
     image: watir:latest
     build:
       context: ./
-      dockerfile: ./Dockerfile_ruby-tests
+      dockerfile: ./Dockerfile-ruby-tests
     depends_on:
       - bulletin
     volumes:
